@@ -67,51 +67,9 @@ CopyInsert
 [PARTE 3: ESTRUCTURA DEL PROYECTO]
 3. Estructura del Proyecto
 3.1 Organización de Directorios
-plaintext
-CopyInsert
-proyecto-web/
-├── src/
-│   ├── components/
-│   │   ├── auth/
-│   │   │   ├── Login.js
-│   │   │   ├── Register.js
-│   │   │   └── PasswordReset.js
-│   │   ├── dashboard/
-│   │   │   ├── AdminDashboard.js
-│   │   │   ├── TeacherDashboard.js
-│   │   │   └── DashboardStats.js
-│   │   ├── schedule/
-│   │   │   ├── ScheduleManager.js
-│   │   │   ├── Calendar.js
-│   │   │   └── TimeSlotPicker.js
-│   │   └── common/
-│   │       ├── Navbar.js
-│   │       ├── Footer.js
-│   │       └── LoadingSpinner.js
-│   ├── contexts/
-│   │   ├── AuthContext.js
-│   │   ├── ThemeContext.js
-│   │   └── ScheduleContext.js
-│   ├── hooks/
-│   │   ├── useAuth.js
-│   │   ├── useFirestore.js
-│   │   └── useSchedule.js
-│   ├── services/
-│   │   ├── firebase.js
-│   │   ├── auth.service.js
-│   │   └── schedule.service.js
-│   ├── utils/
-│   │   ├── dateUtils.js
-│   │   ├── validation.js
-│   │   └── formatting.js
-│   └── App.js
-├── public/
-│   ├── index.html
-│   └── assets/
-├── firebase/
-│   ├── functions/
-│   └── firestore.rules
-└── package.json
+![image](https://github.com/user-attachments/assets/a66465ea-f196-4100-bd19-adf7b35b093e)
+
+
 4. Configuración del Entorno de Desarrollo
 4.1 Requisitos Previos
 4.1.1 Software Necesario
